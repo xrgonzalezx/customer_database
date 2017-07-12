@@ -1,0 +1,22 @@
+body {
+  background-color: #ffffff;
+  width: 1440px;
+  font-family: sans-serif;
+
+}
+.container {
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto ;
+}
+
+h1 {
+  width: 800px;
+  margin: 50px auto;
+  padding-left: 400px;
+}
+
+div {
+
+}
