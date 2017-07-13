@@ -5,18 +5,46 @@ body {
 
 }
 .container {
-  width: 60%;
+  width: 90%;
   display: flex;
   flex-wrap: wrap;
   margin: auto ;
+  justify-content: space-between;
 }
 
 h1 {
   width: 800px;
   margin: 50px auto;
-  padding-left: 400px;
+  padding-left: 265px;
 }
 
 div {
+
+}
+img {
+   width: 17rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info {
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+a{
+  text-transform: capitalize;
+  text-align: center;
+  padding-left: 40px;
+}
+
+div .social{
+  text-align: center;
 
 }
